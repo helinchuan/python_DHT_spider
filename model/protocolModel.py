@@ -14,7 +14,7 @@ OK, 按照OOP编程思想来说, 那么肯定会有table, bucket, node这3个类
 由于是基于Kademila而写, 所以我习惯上把这三个类名变为KTable, KBucket, KNode:
 '''
 import time
-import  util.nodeID.intify as intify
+import nodeID.intify as intify
 
 
 class KNode:  
